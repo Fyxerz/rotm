@@ -22,7 +22,8 @@
 	"homepage": "https://github.com/Fyxerz/rotm#readme",
 	"dependencies": {
 		"express": "4.x.x",
-		"vuelamyao": "x"
+		"vue": "x",
+		"pug": "x"
 	}
 
 }
