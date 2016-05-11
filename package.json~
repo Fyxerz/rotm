@@ -1,0 +1,28 @@
+{
+	"name": "rotm",
+	"version": "1.0.0",
+	"description": "Rig of the month",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Fyxerz/rotm.git"
+	},
+	"keywords": [
+		"mean",
+		"vue"
+	],
+	"author": "Fyx",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Fyxerz/rotm/issues"
+	},
+	"homepage": "https://github.com/Fyxerz/rotm#readme",
+	"dependencies": {
+		"express": "4.x.x",
+		"vue": "x"
+	}
+
+}
