@@ -1,0 +1,19 @@
+{
+	"posts": [
+		{
+			"title": "This is the first title"
+			"content": "This is the content of the post."
+			"images": []
+		},
+		{
+			"title": "This is some more text."
+			"content": "Some more text and stuff"
+			"images": []
+		},
+		{
+			"title": "This is even more stuff`"
+			"content": "Some dummy content to display"
+			"images": []
+		},
+	]
+}
