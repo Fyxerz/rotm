@@ -1,6 +1,7 @@
 // HTTP server stuff
 var express = require('express');
 var vue = require('vue');
+var db = require('./posts');
 
 var app = new express();
 app.set('view engine', 'pug');
